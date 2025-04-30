@@ -1,0 +1,212 @@
+{
+    "problems": [
+        {
+            "name": "TEST",
+            "problem": "uav",
+            "l": 4
+        },
+        {
+            "name": "uav-8",
+            "problem": "uav",
+            "l": 8
+        },
+        {
+            "name": "uav-8-OC",
+            "problem": "uav",
+            "l": 8,
+            "occlusions": [
+                19,
+                20,
+                21,
+                22,
+                23,
+                27,
+                28,
+                29,
+                30,
+                31,
+                35,
+                36,
+                37,
+                38,
+                39
+            ]
+        },
+        {
+            "name": "uav-9",
+            "problem": "uav",
+            "l": 9
+        },
+        {
+            "name": "uav-9-OC",
+            "problem": "uav",
+            "l": 9,
+            "occlusions": [
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                63,
+                64,
+                72,
+                73
+            ]
+        },
+        {
+            "name": "uav-10",
+            "problem": "uav",
+            "l": 10
+        },
+        {
+            "name": "uav-10-oc",
+            "problem": "uav",
+            "l": 10,
+            "occlusions": [
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                34,
+                35,
+                36,
+                37,
+                38,
+                39,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49,
+                61,
+                62,
+                63,
+                71,
+                72,
+                73,
+                81,
+                82,
+                83,
+                88,
+                89,
+                98,
+                99
+            ]
+        },
+        {
+            "name": "star-5-6",
+            "problem": "star",
+            "bits": 5,
+            "d": 6
+        },
+        {
+            "name": "star-6-10",
+            "problem": "star",
+            "bits": 6,
+            "d": 10
+        },
+        {
+            "name": "star-6-53",
+            "problem": "star",
+            "bits": 6,
+            "d": 53
+        },
+        {
+            "name": "star-7-53",
+            "problem": "star",
+            "bits": 7,
+            "d": 53
+        },
+        {
+            "name": "road-60-50",
+            "problem": "road",
+            "file_name": "sensing_matrix_60_50"
+        },
+        {
+            "name": "road-62-50",
+            "problem": "road",
+            "file_name": "sensing_matrix_62_50"
+        },
+        {
+            "name": "road-64-50",
+            "problem": "road",
+            "file_name": "sensing_matrix_64_50"
+        },
+        {
+            "name": "road-66-50",
+            "problem": "road",
+            "file_name": "sensing_matrix_66_50"
+        },
+        {
+            "name": "road-68-50",
+            "problem": "road",
+            "file_name": "sensing_matrix_68_50"
+        },
+        {
+            "name": "road-60-50-2",
+            "problem": "road",
+            "file_name": "sensing_matrix_60_50_2"
+        },
+        {
+            "name": "road-62-50-2",
+            "problem": "road",
+            "file_name": "sensing_matrix_62_50_2"
+        },
+        {
+            "name": "road-64-50-2",
+            "problem": "road",
+            "file_name": "sensing_matrix_64_50_2"
+        },
+        {
+            "name": "road-66-50-2",
+            "problem": "road",
+            "file_name": "sensing_matrix_66_50_2"
+        },
+        {
+            "name": "road-68-50-2",
+            "problem": "road",
+            "file_name": "sensing_matrix_68_50_2"
+        },
+        {
+            "name": "road-60-100",
+            "problem": "road",
+            "file_name": "sensing_matrix_60_100"
+        },
+        {
+            "name": "road-62-100",
+            "problem": "road",
+            "file_name": "sensing_matrix_62_100"
+        },
+        {
+            "name": "road-64-100",
+            "problem": "road",
+            "file_name": "sensing_matrix_64_100"
+        },
+        {
+            "name": "road-66-100",
+            "problem": "road",
+            "file_name": "sensing_matrix_66_100"
+        },
+        {
+            "name": "road-68-100",
+            "problem": "road",
+            "file_name": "sensing_matrix_68_100"
+        }
+    ]
+}
