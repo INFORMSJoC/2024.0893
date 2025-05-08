@@ -25,7 +25,7 @@ https://doi.org/10.1287/ijoc.2024.0893.cd
 Below is the BibTex for citing this snapshot of the repository.
 
 ```
-@misc{CacheTest,
+@misc{TanIJOCRepository2025,
   author =        {R. Tan, R. Ghuge, V. Nagarajan},
   publisher =     {INFORMS Journal on Computing},
   title =         {{Informative Path Planning with Limited Adaptivity}},
